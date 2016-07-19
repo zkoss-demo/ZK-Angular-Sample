@@ -5,7 +5,7 @@
 	<artifactId>zkangulardemo</artifactId>
 	<version>1.0-SNAPSHOT</version>
 	<properties>
-		<zk.version>7.0.3.FL.20140801</zk.version>
+		<zk.version>7.0.3-Eval</zk.version>
 		<commons-io>1.3.1</commons-io>
 		<maven.build.timestamp.format>yyyy-MM-dd</maven.build.timestamp.format>
 		<packname>-${project.version}-FL-${maven.build.timestamp}</packname>
